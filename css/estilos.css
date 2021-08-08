@@ -227,12 +227,12 @@ main .sobre-nosotros{
 }
 
 .servicio-ind{
-    width:50%;
+    width:100%;
     text-align: center;
 }
 
 .servicio-ind img{
-    width: 50%;
+    width: 20%;
 }
 
 .servicio-ind h3{

@@ -227,12 +227,12 @@ main .sobre-nosotros{
 }
 
 .servicio-ind{
-    width: 50%;
+    width:50%;
     text-align: center;
 }
 
 .servicio-ind img{
-    width: 90%;
+    width: 50%;
 }
 
 .servicio-ind h3{
@@ -241,7 +241,7 @@ main .sobre-nosotros{
 
 .servicio-ind p{
     font-weight: 300;
-    text-align: justify;
+    text-align: center;
 }
 
 /* footer */

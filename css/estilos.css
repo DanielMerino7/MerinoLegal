@@ -440,6 +440,15 @@ footer{
         text-align: center;
     }
     
+       }
+    
+    .titulo-final > a{
+    color:#ffffff;
+    font-weight: 300;
+    text-decoration: none;
+    margin-right: 10px;
+}
+    
     nav > a{
     color:#575A5F;
     font-weight: 300;

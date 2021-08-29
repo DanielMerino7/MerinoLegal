@@ -402,6 +402,8 @@ footer{
     }
 
     /* Footer */
+    
+    
 
     .contenedor-footer{
         flex-direction: column;
@@ -451,7 +453,7 @@ footer{
     
     nav > a{
     color:#575A5F;
-    font-weight: 300;
+    font-weight: 200;
     text-decoration: none;
     margin-right: 10px;
 }

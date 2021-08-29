@@ -251,6 +251,7 @@ footer{
     padding: 60px 0 30px 0;
     margin: auto;
     overflow: hidden;
+    font-weight: 200;
 }
 
 .contenedor-footer{
@@ -260,6 +261,7 @@ footer{
     margin: auto;
     padding-bottom: 50px;
     border-bottom: 1px solid #ccc;
+    font-weight: 200;
 }
 
 .content-foo{
@@ -275,6 +277,7 @@ footer{
 
 .content-foo p{
     color: #ccc;
+    font-weight: 200;
 }
 
 .titulo-final{

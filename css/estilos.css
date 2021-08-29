@@ -440,6 +440,7 @@ footer{
         color: #A7A2A9;
         margin-bottom: 20px;
         text-align: center;
+        font-weight: 200;
     }
     
        }
@@ -462,5 +463,6 @@ footer{
   color: A7A2A9;
   background-color: transparent;
   text-decoration: none;
+  font-weight: 200;
 }
 }
